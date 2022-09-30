@@ -1,0 +1,17 @@
+D:\Visual\C#\Security Panel\Security Panel\bin\Debug\net6.0-windows\Security Panel.exe
+D:\Visual\C#\Security Panel\Security Panel\bin\Debug\net6.0-windows\Security Panel.deps.json
+D:\Visual\C#\Security Panel\Security Panel\bin\Debug\net6.0-windows\Security Panel.runtimeconfig.json
+D:\Visual\C#\Security Panel\Security Panel\bin\Debug\net6.0-windows\Security Panel.dll
+D:\Visual\C#\Security Panel\Security Panel\bin\Debug\net6.0-windows\Security Panel.pdb
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.csproj.AssemblyReference.cache
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security_Panel.Form1.resources
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.csproj.GenerateResource.cache
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.AssemblyInfoInputs.cache
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.AssemblyInfo.cs
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.csproj.CoreCompileInputs.cache
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.dll
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\refint\Security Panel.dll
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.pdb
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\Security Panel.genruntimeconfig.cache
+D:\Visual\C#\Security Panel\Security Panel\obj\Debug\net6.0-windows\ref\Security Panel.dll
